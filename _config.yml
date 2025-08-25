@@ -1,0 +1,27 @@
+title: "Pradnyanand Bhadarge"
+description: "AI & ML Enthusiast | Portfolio"
+theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-include-cache
+
+# Navbar links (Hacker theme doesn’t have a built-in navbar,
+# so we’ll fake it in index.md with Markdown links)
+nav:
+  - title: "About"
+    url: /#about
+  - title: "Projects"
+    url: /#projects
+  - title: "Resume"
+    url: /#resume
+  - title: "Contact"
+    url: /#contact
+
+author:
+  name: "Pradnyanand"
+  email: "Pradnyanand09@gmail.com"
+  linkedin: "https://www.linkedin.com/in/pradnyanand-bhadarge-741979257/"
+  github: "https://github.com/Pradnyanand09"
+
+sass:
+  style: compressed
