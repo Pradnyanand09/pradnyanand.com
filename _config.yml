@@ -11,7 +11,7 @@ nav:
   - title: "About"
     url: /#about
   - title: "Projects"
-    url: /#projects
+    url: /projects
   - title: "Resume"
     url: /#resume
   - title: "Contact"
