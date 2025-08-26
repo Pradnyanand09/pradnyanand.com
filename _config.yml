@@ -1,12 +1,11 @@
 title: "Pradnyanand Bhadarge"
 description: "AI & ML Enthusiast | Portfolio"
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-include-cache
 
-# Navbar links (Hacker theme doesn’t have a built-in navbar,
-# so we’ll fake it in index.md with Markdown links)
+# Navbar links
 nav:
   - title: "About"
     url: /#about
