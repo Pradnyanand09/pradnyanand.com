@@ -1,20 +1,12 @@
 title: "Pradnyanand Bhadarge"
 description: "AI & ML Enthusiast | Portfolio"
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 plugins:
   - jekyll-include-cache
 
-# Navbar links
-nav:
-  - title: "About"
-    url: /#about
-  - title: "Projects"
-    url: /projects
-  - title: "Resume"
-    url: /#resume
-  - title: "Contact"
-    url: /#contact
+title: "Pradnyanand Bhadarge"
+description: "AI & ML Enthusiast | Portfolio"
 
 author:
   name: "Pradnyanand"
@@ -22,5 +14,14 @@ author:
   linkedin: "https://www.linkedin.com/in/pradnyanand-bhadarge-741979257/"
   github: "https://github.com/Pradnyanand09"
 
-sass:
-  style: compressed
+# Navbar menu
+nav:
+  - title: "About"
+    url: /#about
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /#resume
+  - title: "Contact"
+    url: /#contact
+
